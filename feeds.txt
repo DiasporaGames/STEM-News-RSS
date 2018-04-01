@@ -1,0 +1,15 @@
+https://www.joelonsoftware.com/feed/
+https://www.aerospace-technology.com/feed/
+https://gpuopen.com/feed/
+https://www.phoronix.com/rss.php
+http://www.teslarati.com/feed/
+https://www.nextbigfuture.com/feed
+https://singularityhub.com/feed/
+http://phys.org/rss-feed/
+http://www.ehackingnews.com/feeds/posts/default
+https://www.sciencemag.org/rss/news_current.xml
+https://www.technologyreview.com/stories.rss
+https://news.ycombinator.com/rss
+http://futurism.com/feed/
+https://rss.sciencedaily.com/top/technology.xml
+https://rss.sciencedaily.com/top/science.xml
