@@ -13,3 +13,4 @@ https://news.ycombinator.com/rss
 http://futurism.com/feed/
 https://rss.sciencedaily.com/top/technology.xml
 https://rss.sciencedaily.com/top/science.xml
+https://geneticliteracyproject.org/feed/
