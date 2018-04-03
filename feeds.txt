@@ -16,3 +16,7 @@ https://rss.sciencedaily.com/top/science.xml
 https://geneticliteracyproject.org/feed/
 http://spacenews.com/feed/
 https://www.reddit.com/r/engineering/.rss
+https://www.reddit.com/r/space/.rss
+https://www.reddit.com/r/spacex/.rss
+https://www.reddit.com/r/math/.rss
+https://www.reddit.com/r/science/.rss
