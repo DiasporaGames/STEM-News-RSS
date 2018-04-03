@@ -21,3 +21,4 @@ https://www.reddit.com/r/spacex/.rss
 https://www.reddit.com/r/math/.rss
 https://www.reddit.com/r/science/.rss
 https://www.theengineer.co.uk/feed/
+https://www.maa.org/math-in-the-news/rss.xml
